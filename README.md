@@ -12,7 +12,7 @@ Check out my [CTFtime](http://ctftime.org/user/106126), I mainly use CTFtime to 
 
 Take a look at my mini blog, hosted on [HackMD](https://hackmd.io/@b0o5t3d)! This is where I mainly publish my writeups and codes!
 
-I am also a avid subscriber on [TryHackMe](https://tryhackme.com/p/b0o5t3d)! This is where I practice my skills!
+I am also an avid subscriber on [TryHackMe](https://tryhackme.com/p/b0o5t3d)! This is where I practice my skills!
 
 I have recently started [HackTheBox](https://app.hackthebox.eu/users/521845)! It has been quite challenging, though fun!
 
