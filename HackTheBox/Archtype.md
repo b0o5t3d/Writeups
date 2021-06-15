@@ -1,6 +1,8 @@
 # **HackTheBox Archtype**
 ## Windows MySQL
 
+See this writeup on my HackMD page: https://hackmd.io/@b0o5t3d/HTBArchtype
+
 ### Basic Information
 Machine IP: **10.10.10.27**
 Type: **Windows**
